@@ -27,15 +27,19 @@ layout: default
 
   {{ content }}
 
+  {% comment %} 
   {% if page.tags %}
     {% include post-tags.html %}
   {% endif %}
+  
 
   {% if jekyll.environment == "production" and site.disqus and page.comments != false %}
     {% include disqus.html %}
   {% endif %}
+  {% endcomment %} 
 </article>
 
+{% comment %} 
 {% if site.related_posts != empty %}
 <aside class="related">
   <h2>Related posts</h2>
@@ -51,3 +55,4 @@ layout: default
   </ul>
 </aside>
 {% endif %}
+{% endcomment %} 
