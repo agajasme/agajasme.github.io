@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SZMahjong
+#title: SZMahjong
 tags: 
 - jekyll theme
 - jekyll

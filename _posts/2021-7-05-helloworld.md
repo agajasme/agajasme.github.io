@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HelloWorld
+#title: HelloWorld
 tags: 
 - jekyll theme
 - jekyll
@@ -9,7 +9,7 @@ math: true
 ---
 HelloWorld
 
-<img src="/h.png">
+<img src="/image/img_h.png">
 
 <script type="text/javascript">
     function Enter(e) {

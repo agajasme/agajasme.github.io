@@ -2,10 +2,10 @@
 title: 对方正在输入
 description: 当你觉得自己又丑又穷的时候，不要悲伤，至少你的判断还是对的。
 url: https://agajasme.github.io
-avatar: /avatar.jpeg
+avatar: /image/img_avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /image/img_bg.jpeg
 
 # Gems
 plugins:
